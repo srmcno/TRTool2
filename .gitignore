@@ -1,4 +1,10 @@
 __pycache__/
+<<<<<<< claude/streamlit-app-enhancement-tA64X
+*.py[cod]
+*.egg-info/
+.env
+=======
 *.pyc
 *.pyo
 .DS_Store
+>>>>>>> main
